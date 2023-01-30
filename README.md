@@ -1,11 +1,11 @@
-# **Assignment 6**
-This is the _Assignment 6_ of course **CS-648**
+# **Assignment 1**
+This is the _Assignment 1_ of course **CS-648.02**
 
 #### Abstract
-The sixth task is about learning about JavaScript. This assignment consists of several simple javascripts.
+The first task is about learning about JavaScript. This assignment consists of several simple javascripts.
 
 ### Introduction
-This is based on the sixth assignment on JavaScript. 
+This is based on the first assignment on JavaScript. 
 The scripts are about:
 1. Larger or smaller number
 2. Coin-flip
